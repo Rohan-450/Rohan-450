@@ -16,8 +16,8 @@
 <img align="right" height="250" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"  />
 <p align="left">✨ Creating bugs since beginning of life<br>📚 I'm currently learning B.Tech. in Computer Science and Engineering<br>📫 How to reach me rohanmitra450@gmail.com<br>💻 More about me summed up in one place ...</p>
 
-###
 
+###
 
 <h2 align="left">🚀 Languages and Tools:</h2>
 
@@ -40,26 +40,28 @@
 </div>
 
 ###
-<h2 align="left">💬 Connect with me::</h2>
+
+<h2 align="left">💬 Connect with me:</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rohan-mitra-63b7a1245/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+     <img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" width="40" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://instagram.com/_rohan._.mitra_?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png" width="52" height="50" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <br clear="both">
 
-
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohan-450&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="157" alt="stats graph"  />
