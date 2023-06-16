@@ -1,8 +1,11 @@
+![image](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
+
 <h1 align="center">Hey 👋, I'm Rohan Mitra</h1>
 
 ###
 
-<h4 align="center">I am a second-year CSE undergrad and a passionate developer and tech enthusiast</h4>
+<h3 align="center">I am a second-year CSE undergrad and a passionate developer and tech enthusiast</h3>
 
 ###
 
@@ -10,7 +13,7 @@
 
 ###
 
-<img align="right" height="250" src="https://github.com/Rohan-450/Rohan-450/assets/124903208/e6e34ede-51f5-4789-99a3-162c9520a656"  />
+<img align="right" height="250" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"  />
 <p align="left">✨ Creating bugs since beginning of life<br>📚 I'm currently learning B.Tech. in Computer Science and Engineering<br>📫 How to reach me rohanmitra450@gmail.com<br>💻 More about me summed up in one place ...</p>
 
 ###
