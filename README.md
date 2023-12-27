@@ -66,7 +66,6 @@
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rohan-450&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohan-450&layout=compact&show_icons=true&theme=midnight-purple&langs_count=8&card_width=280&locale=en" />
 </div>
 
 ###
@@ -97,21 +96,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!---
-# 💫 About Me:
-✨ Creating bugs since beginning of life<br>📚 I'm currently learning B.Tech. in Computer Science and Engineering<br>📫 How to reach me Email<br>💻 More about me summed up in one place ...
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rohan Mitra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rohan Mitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rohanmitra450) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohan-450&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohan-450&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-450&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rohan-450&icon=8&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohan-450&layout=compact&show_icons=true&theme=midnight-purple&langs_count=8&card_width=280&locale=en" />
+ --->
